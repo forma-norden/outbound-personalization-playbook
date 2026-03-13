@@ -1,4 +1,4 @@
-# Outbound Personalization Playbook
+﻿# Outbound Personalization Playbook
 
 Scalable AI-assisted personalization frameworks across the entire market spectrum. Move beyond generic cold emails and build systems that generate highly relevant, signal-driven hooks for Whales, Dolphins, and Minnows.
 
@@ -6,14 +6,13 @@ Scalable AI-assisted personalization frameworks across the entire market spectru
 
 | File | What it does |
 |------|-------------|
-| `SKILL.md` | Orchestrator and routing logic |
-| `personalization-research-framework.md` | Structured approach to prospect research |
-| `personalization-hook-builder.md` | Converting research into strong hooks |
-| `personalization-at-scale-operator.md` | AI-assisted personalization workflows |
-| `personalization-campaign-playbook.md` | Decision frameworks for segmenting campaigns |
-| `personalization-quality-scoring.md` | Scoring AI output quality before sending |
-| `personalization-data-collection-ops.md` | Automation setup and data collection rules |
-| `ECOSYSTEM.md` | Cross-repo connectivity map |
+| `.agents/skills/SKILL.md` | Orchestrator and routing logic |
+| `.agents/skills/personalization-research-framework.md` | Structured approach to prospect research |
+| `.agents/skills/personalization-hook-builder.md` | Converting research into strong hooks |
+| `.agents/skills/personalization-at-scale-operator.md` | AI-assisted personalization workflows |
+| `.agents/skills/personalization-campaign-playbook.md` | Decision frameworks for segmenting campaigns |
+| `.agents/skills/personalization-quality-scoring.md` | Scoring AI output quality before sending |
+| `.agents/skills/personalization-data-collection-ops.md` | Automation setup and data collection rules |
 
 ## Prerequisites
 
@@ -43,17 +42,18 @@ want to reduce tool sprawl through better-engineered GTM systems.
 
 ---
 
-## From the Forma Nôrden GTM Library
+## From the Forma NÃ´rden GTM Library
 
-This is a free resource from the Forma Nôrden open-source GTM library, built by
+This is a free resource from the Forma NÃ´rden open-source GTM library, built by
 [Yananai A. Chiwuta](https://yananaichiwuta.com/), GTM engineer and founder of
-[Forma Nôrden](https://formanorden.com/).
+[Forma NÃ´rden](https://formanorden.com/).
 
 - [Open-source GTM systems](https://github.com/forma-norden) - all repos in the library  
 - [GTM engineering blog](https://formanorden.com/blog/) - strategy, systems, and outbound deep-dives  
 - [All resources](https://formanorden.com/resources/) - guides, frameworks, and templates  
 
 If this saves you time, star the repo and follow
-[Forma Nôrden on LinkedIn](https://www.linkedin.com/company/formanorden/).
+[Forma NÃ´rden on LinkedIn](https://www.linkedin.com/company/formanorden/).
 
-Built by [Forma Nôrden](https://formanorden.com/) - GTM engineering for B2B companies.
+Built by [Forma NÃ´rden](https://formanorden.com/) - GTM engineering for B2B companies.
+
